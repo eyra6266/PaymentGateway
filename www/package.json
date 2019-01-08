@@ -1,0 +1,23 @@
+{
+  "name": "paymentgateway",
+  "version": "1.1.0",
+  "description": "This is Payment Gateway example using cordova plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyra6266/PaymentGateway.git"
+  },
+  "keywords": [
+    "Payment",
+    "Ionic2"
+  ],
+  "author": "Fatin Hazirah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyra6266/PaymentGateway/issues"
+  },
+  "homepage": "https://github.com/eyra6266/PaymentGateway#readme"
+}
